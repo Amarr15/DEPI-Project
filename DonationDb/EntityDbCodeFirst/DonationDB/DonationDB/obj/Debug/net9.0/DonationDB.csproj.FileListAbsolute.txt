@@ -1,0 +1,5 @@
+C:\PC\Software_Engineering\رواد مصر الرقمية\project\Donation\DonationDB\DonationDB\obj\Debug\net9.0\DonationDB.csproj.AssemblyReference.cache
+C:\PC\Software_Engineering\رواد مصر الرقمية\project\Donation\DonationDB\DonationDB\obj\Debug\net9.0\DonationDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\PC\Software_Engineering\رواد مصر الرقمية\project\Donation\DonationDB\DonationDB\obj\Debug\net9.0\DonationDB.AssemblyInfoInputs.cache
+C:\PC\Software_Engineering\رواد مصر الرقمية\project\Donation\DonationDB\DonationDB\obj\Debug\net9.0\DonationDB.AssemblyInfo.cs
+C:\PC\Software_Engineering\رواد مصر الرقمية\project\Donation\DonationDB\DonationDB\obj\Debug\net9.0\DonationDB.csproj.CoreCompileInputs.cache
